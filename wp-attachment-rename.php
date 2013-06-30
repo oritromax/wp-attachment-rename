@@ -20,7 +20,7 @@ The How to:
 4. To modify this plugin, A bit of PHP and Wordpress Function Knowledge is a must. 
 5. The Default Method will generate A Renamed file like: Yourblogname_51cf9b31ce124_boycut.jpg
 6. Each file will be Delivered a Unique ID, So You don't have to see a Same File named changed like this : boycut (2).jpg
-
+7. GUI is Comming :D 
  */
 function wpattachmentrename($filename) {
     $info = pathinfo($filename);
